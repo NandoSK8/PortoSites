@@ -1,0 +1,56 @@
+.bg-nav{
+    background-color: ;
+}
+.painel{
+    margin-top: ;
+    z-index: 1!importante;
+    position: absolute!important;
+    
+}
+.bg-painel{
+    background-color: #2c465f;
+}
+.painel2{
+    background:url(../img/cover5.jpg) no-repeat;
+    height: 300px;
+    width: 100%;
+    background-image:cover;
+    background-position:center top;
+    background-size: cover;
+}
+.icon-lag{
+    font-size: 50px;
+}
+.circle{
+    border-radius:100%;
+    border:5px solid #2c465f;
+    width:250px;
+    height:250px;
+    background-color:black;
+}
+.space{
+    height: 150px;
+    background-color: red;
+}
+.row1{
+    margin-left: 0px!important;
+    margin-right: 0px!important;
+}
+.parallax { 
+    /* The image used */
+    background-image: url("../img/4k.jpg");
+
+    /* Set a specific height */
+    height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.perfis{
+ width: 150px;   
+}
+
+
